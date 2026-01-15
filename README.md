@@ -118,10 +118,10 @@ Designed for companies and organizers seeking student talent and exposure.
 
 **Plans:**
 - **Internship Plan** — `$69/month`  
-  - Up to 3 active internship listings  
+  - Up to 5 active internship listings  
   - Application analytics  
 
-- **Competition Spotlight** — `$349/post`  
+- **Competition Spotlight** — `$649/post`  
   - 365-day visibility  
   - Featured placement  
 
@@ -143,7 +143,7 @@ Freemium model for students.
 ## 🧠 Product Vision
 
 **Vision**  
-To become the global standard platform where students build careers and income before graduating.
+To become the global standard platform where students build careers and income even before graduating.
 
 **Mission**  
 Empower students to gain experience, earn money, and grow professionally while studying.
@@ -157,8 +157,7 @@ Ambitious, practical, supportive, modern
 Friendly, professional, motivating
 
 **Values:**
-- Action over theory  
-- Transparency  
+- Action over theory    
 - Growth mindset  
 - Community  
 - Equal opportunity  
@@ -172,7 +171,7 @@ Minimalist, modern UI focused on readability and usability.
 
 ## 📊 Market Opportunity
 
-- 200M+ university students globally  
+- 52M+ business-oriented university students globally  
 - Rapid growth of remote work and freelancing  
 - Rising demand for early career monetization  
 - Companies actively seeking young digital talent  
@@ -205,18 +204,12 @@ Interactive prototype, screens, and video walkthrough available.
 
 ## 📎 Links
 
-- 🎨 Figma Prototype: *([https://www.figma.com/make/2I3XsdhkqT5E6XuPJJOeyf/StudentCareer-?t=nEjXONgirA4sMM9q-1](https://www.figma.com/make/2I3XsdhkqT5E6XuPJJOeyf/StudentCareer-?fullscreen=1&t=70PCJUCabsRNOIn9-1))*  
+- 🎨 Figma Prototype: *()*  
 - 🎥 Product Walkthrough Video: *(https://youtu.be/DBPLVQDLaDI?si=FtfaBCgKoAn6tuA5)*    
 
 
 
 ## 🧠 Why This Project Matters
-
-StudentCareer+ demonstrates:
-- Strong product thinking  
-- User-centered design  
-- Business and monetization strategy  
-- Ability to identify and solve real market problems  
 
 This project represents a full-cycle product case from idea to scalable platform concept.
 
