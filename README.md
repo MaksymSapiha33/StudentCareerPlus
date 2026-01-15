@@ -43,8 +43,8 @@ All in one focused, student-centric product.
 
 ### Secondary Users
 - Companies hiring interns
-- Competition & program organizers
-- Educational platforms and startups
+- Competition and program organizers
+- Educational platforms 
 
 ### Geographic Focus
 🌍 Global (students worldwide)
