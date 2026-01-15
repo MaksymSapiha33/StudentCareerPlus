@@ -205,7 +205,7 @@ Interactive prototype, screens, and video walkthrough available.
 
 ## 📎 Links
 
-- 🎨 Figma Prototype: *(https://www.figma.com/make/2I3XsdhkqT5E6XuPJJOeyf/StudentCareer-?t=nEjXONgirA4sMM9q-1)*  
+- 🎨 Figma Prototype: *([https://www.figma.com/make/2I3XsdhkqT5E6XuPJJOeyf/StudentCareer-?t=nEjXONgirA4sMM9q-1](https://www.figma.com/make/2I3XsdhkqT5E6XuPJJOeyf/StudentCareer-?fullscreen=1&t=70PCJUCabsRNOIn9-1))*  
 - 🎥 Product Walkthrough Video: *(add link here)*    
 
 
@@ -218,4 +218,7 @@ StudentCareer+ demonstrates:
 - Business and monetization strategy  
 - Ability to identify and solve real market problems  
 
-This project represents a full-cycle product case — from idea to scalable platform concept.
+This project represents a full-cycle product case from idea to scalable platform concept.
+
+Instagram: https://www.instagram.com/maksym_sapiha?igsh=d253M2N0dWRubWN0
+LinkedIn: https://www.linkedin.com/in/maksym-sapiha
