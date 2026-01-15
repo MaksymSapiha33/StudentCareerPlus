@@ -15,9 +15,9 @@ Most students face the same challenges:
 - Strong theoretical knowledge but little practical experience  
 - No clear path to earning during studies  
 - Lack of transparent, real examples from peers  
-- Fragmented tools (LinkedIn, job boards, Discord, Medium)
+- Fragmented tools
 
-Existing platforms focus on corporate hiring and graduates — not early-stage student execution.
+Existing platforms focus on corporate hiring and graduates, not early-stage student execution.
 
 ## 💡 Solution
 
