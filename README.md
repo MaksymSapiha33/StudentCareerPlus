@@ -179,13 +179,6 @@ Minimalist, modern UI focused on readability and usability.
 
 StudentCareer+ targets a clear and growing market gap.
 
-## 📈 Key Metrics (Target)
-
-- Monthly Active Users (MAU): 100,000  
-- DAU / MAU Ratio: 25–30%  
-- Day 30 Retention: ~20%  
-- Churn Rate: <5%  
-
 ## 🛠 Tech & Tools
 
 - **Design:** Figma  
