@@ -204,7 +204,7 @@ Interactive prototype, screens, and video walkthrough available.
 
 ## 📎 Links
 
-- 🎨 Figma Prototype: *()*  
+🎨 Figma Prototype  
 - 🎥 Product Walkthrough Video: *(https://youtu.be/DBPLVQDLaDI?si=FtfaBCgKoAn6tuA5)*    
 
 
