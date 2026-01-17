@@ -193,15 +193,6 @@ Interactive prototype, screens, and video walkthrough available.
 - Core user flows and monetization designed
 - Ready for MVP development or investor pitch
 
-## 👤 Author
-
-**Founder & Product Designer (Solo Project)**  
-- Product vision & strategy  
-- UX/UI design  
-- Market & competitor analysis  
-- Business model & monetization  
-- Branding & positioning  
-
 ## 📎 Links
 
 🎨 Figma Prototype  
