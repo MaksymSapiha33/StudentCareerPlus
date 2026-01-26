@@ -178,15 +178,6 @@ Minimalist, modern UI focused on readability and usability.
 
 StudentCareer+ targets a clear and growing market gap.
 
-## 🛠 Tech & Tools
-
-- **Design:** Figma  
-- **Ideation & Research:** Claude, Gemini  
-- **Documentation:** Samsung Notes  
-- **Hardware:** Laptop  
-
-Interactive prototype, screens, and video walkthrough available.
-
 ## 📌 Project Status
 
 - High-fidelity interactive prototype
